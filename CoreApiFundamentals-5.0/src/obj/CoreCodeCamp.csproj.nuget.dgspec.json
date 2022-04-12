@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AVIHUMAR\\Downloads\\CoreApiFundamentals-5.0\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj": {}
+    "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AVIHUMAR\\Downloads\\CoreApiFundamentals-5.0\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj": {
+    "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AVIHUMAR\\Downloads\\CoreApiFundamentals-5.0\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+        "projectUniqueName": "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
         "projectName": "CoreCodeCamp",
-        "projectPath": "C:\\Users\\AVIHUMAR\\Downloads\\CoreApiFundamentals-5.0\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+        "projectPath": "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
         "packagesPath": "C:\\Users\\AVIHUMAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AVIHUMAR\\Downloads\\CoreApiFundamentals-5.0\\CoreApiFundamentals-5.0\\src\\obj\\",
+        "outputPath": "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
