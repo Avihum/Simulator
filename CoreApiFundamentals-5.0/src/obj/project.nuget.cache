@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nagmcYvWx44+VmO11FMectSnJksTA7vIOtuj1y+xp663NJrPasCJRG/TRyj0bgsVLJ/6/ur95CW+eC/a0FbPCA==",
+  "dgSpecHash": "zfs4EL6Fjw96fZ9yTXNJDCPPIWcIrtKZrqMaItw8Avj2+bB+eK5Mn38oibOKC3K2+XSEv/Z7kS2GrNhlRp48bg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Simulators\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+  "projectFilePath": "D:\\Projects\\Simulator\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AVIHUMAR\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AVIHUMAR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
