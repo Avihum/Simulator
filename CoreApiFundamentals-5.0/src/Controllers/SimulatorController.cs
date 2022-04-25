@@ -25,11 +25,8 @@ namespace SimulatorNamespace.Controllers
         private HttpContract myIcd;
         public SimulatorController(ICampRepository campRepository)
         {
-            if(campRepository is not null)
-            {
-                _repo = campRepository;
-            }
-            // test 03
+            _repo = campRepository;
+
             this.myIcd = new HttpContract();
         }
 
